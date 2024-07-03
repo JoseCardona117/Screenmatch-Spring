@@ -10,4 +10,5 @@ public record DatosEpisodio(
         @JsonAlias("imdbRating") String evaluacion,
         @JsonAlias("Released") String fechaDeLanzamiento
 ) {
+
 }

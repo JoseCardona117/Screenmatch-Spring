@@ -25,5 +25,6 @@ public class ConsumoApi {
 
         String json = response.body();
         return json;
+
     }
 }
